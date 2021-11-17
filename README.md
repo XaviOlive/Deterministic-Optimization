@@ -15,4 +15,4 @@ When executing is neceesary to indicate the method wanted for the absolute minim
 'g' will use the  Conjugate Gradient method and 'l' Levenberg-Marquardt method
 
 ## Author
-@author: Xavier Olivé Fernández.    NIU: 1394407
+@author: Xavi Olivé
