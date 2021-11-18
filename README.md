@@ -4,7 +4,7 @@ This program finds the global minimum of the Rosenbrock's function with the Conj
 
 ## Files
 
-The deliverable consists on the ```main.c``` program that was used to comipe our program, the ```detlibrary.h``` necessari to run the main file which contains the standard C libraries, the defined macros and the functions needed and ```report```explaining the results accuired. The executable ```deterministic``` is also sent which is ready to use through the terminal and ```Report_steps``` folder where data used in the report is stored.
+The project consists on the ```main.c``` program that was used to comipe our program, the ```detlibrary.h``` necessari to run the main file which contains the standard C libraries, the defined macros and the functions needed and ```Report.pdf```explaining the results accuired. The ```Report_steps``` folder where data used in the report is stored.
 
 ## Usage
 
